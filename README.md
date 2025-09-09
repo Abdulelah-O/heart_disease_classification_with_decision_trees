@@ -5,8 +5,8 @@ This project implements a machine learning model to classify heart disease based
 
 ## Files
 
-  - ML_HD.py: The main Python script that contains all the code for data processing, model training, evaluation, and visualization.
-  - heart.csv: The dataset used for training and testing the model. It contains various features related to patient health and a target variable indicating the presence of heart disease.
+  - **ML_HD.py:** The main Python script that contains all the code for data processing, model training, evaluation, and visualization.
+  - **heart.csv:** The dataset used for training and testing the model. It contains various features related to patient health and a target variable indicating the presence of heart disease.
 
 ## Implementation Details
 
