@@ -42,5 +42,9 @@ Here's an example for the output
 
 <img width="1911" height="1111" alt="image" src="https://github.com/user-attachments/assets/41a9f17e-3179-4ae2-979d-c363d9037657" />
 
+Contributors:
 
+- Abdulaziz Alhaizan
+- Abdulelah Bin Obaid
+- Fawaz Mufti
 
